@@ -1,0 +1,6 @@
+jugador (nombre, núm. de escobas conseguidas, false/true si consiguió
+más oros que el competidor, false/true si consiguió todos los oros,
+false/true si consiguió tener la mayoría de sietes, false/true si consiguió el 7 de oros,
+false/true si consiguió la mayoría de las cartas, false/true si consiguió que el
+competidor obtuviera menos de 10 cartas);
+duración de la ronda (busca en internet cómo medir el tiempo en Java).
